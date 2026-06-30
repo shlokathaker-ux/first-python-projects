@@ -1,12 +1,12 @@
 
 # First Python Projects 
 
-Hello! This repository contains some of my first python programmes. 
+Hello! This is Shloka and this repository contains some of my first Python programs.
 
-# Programs Included 
+## Programs Included 
 
 - **hello.py**  
-  A simple (2 line) user-input greeting program.
+  A simple (two-line) user-input greeting program.
 
 - **calculator.py**  
   A calculator where the user can choose to perform -
@@ -15,5 +15,5 @@ Hello! This repository contains some of my first python programmes.
   - Multiplication
   - Division (with divide-by-zero exception)
 
-# Purpose 
+## Purpose 
 This repository documents my journey as a student learning and improving my Python skills. 
