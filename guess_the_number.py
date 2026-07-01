@@ -1,8 +1,8 @@
 import random
 
-number = random.randint(1,30)
+number = random.randint(1,20)
 
-x = int(input("Guess a number from 1 to 30:"))
+x = int(input("Guess a number from 1 to 20:"))
     
 while True:
     if x==number:
