@@ -18,5 +18,7 @@ Hello! This is Shloka and this repository contains some of my first Python progr
 - **guess_the_number.py**  
   An interactive game where the user guesses the number chosen by the program
 
+- **rolling_dice.py**  
+  An interactive rolling dice game with 1D animation
 ## Purpose 
 This repository documents my journey as a student learning and improving my Python skills. 
