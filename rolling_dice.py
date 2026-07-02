@@ -21,7 +21,7 @@ while True:
     if choice=="yes":
         continue
     else:
-        print(" OkAy tHaNkYoU bYe!")
+        print(" OkAy tHaNkYoU bYe!👋")
         break
 
 
