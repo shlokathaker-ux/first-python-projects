@@ -20,6 +20,7 @@ Hello! This is Shloka and this repository contains some of my first Python progr
 
 - **rolling_dice.py**  
   An interactive dice-rolling game with a simple terminal based animation
+  (note - the animation uses text output and short pauses to simulate motion, rather than graphic visuals)
   
 ## Purpose 
 This repository documents my journey as a student learning and improving my Python skills. 
