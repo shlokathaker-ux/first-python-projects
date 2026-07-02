@@ -1,3 +1,6 @@
+# This is a simple terminal based dice rolling game. 
+# 'Terminal based' means the animation uses text output and short time delays to create a sense of motion, not graphics or visuals
+
 import random
 import time
 
