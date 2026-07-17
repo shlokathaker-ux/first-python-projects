@@ -1,7 +1,7 @@
 #calculator
 
-x = int(input("Enter first number:"))
-y = int(input("Enter second number:"))
+x = float(input("Enter first number:"))
+y = float(input("Enter second number:"))
 print ("Select operation:")
 print ("1. Add")
 print ("2. Subtract")
