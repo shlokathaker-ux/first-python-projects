@@ -1,4 +1,4 @@
-import random
+import random  #importing database
 
 number = random.randint(1,20)
 
