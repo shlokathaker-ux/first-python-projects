@@ -3,24 +3,5 @@
 
 Hello! This is Shloka and this repository contains some of my first Python programs.
 
-## Programs Included 
 
-- **hello.py**  
-  A simple (two-line) user-input greeting program.
 
-- **calculator.py**  
-  A calculator where the user can choose to perform -
-  - Addition
-  - Subtraction
-  - Multiplication
-  - Division (with divide-by-zero exception)
- 
-- **guess_the_number.py**  
-  An interactive game where the user guesses the number chosen by the program
-
-- **rolling_dice.py**  
-  An interactive dice-rolling game with a simple terminal based animation
-  (note - the animation uses text output and short pauses to simulate motion, rather than graphic visuals)
-  
-## Purpose 
-This repository documents my journey as a student learning and improving my Python skills. 
